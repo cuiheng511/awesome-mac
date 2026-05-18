@@ -1238,6 +1238,7 @@ Awesome Mac
 
 * [BetterZip](https://macitbetter.com/) - ZIP、TAR、TGZ、TBZ、TXZ（新規）、7-ZIP、RARをサポートするアーカイブツール。
 * [eZip](http://ezip.awehunt.com) - ZIP、RAR、7Z などに対応した軽量な圧縮・解凍ツール。 ![Freeware][Freeware Icon]
+* [FilePilot AI](https://github.com/cuiheng511/filepilot-ai) - ローカルファーストのAIファイルマネージャー。スキャン、検索、タグ付け、重複検出、要約、ファイル整理に対応。 [![Open-Source Software][OSS Icon]](https://github.com/cuiheng511/filepilot-ai) ![Freeware][Freeware Icon]
 * [Fileside](https://www.fileside.app) - 無制限のペインを持つモダンなタイリングファイルマネージャー。
 * [Folders File Manager](https://foldersapp.dev) - Windowsエクスプローラーに似た展開可能なフォルダツリーを持つファイルマネージャー。
 * [Hazel](https://www.noodlesoft.com) - Macのためのファイル自動整理ツール。責任を持って美しくデザインされています。
